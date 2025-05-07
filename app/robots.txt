@@ -1,3 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
+https://videobokepxpanas.pages.dev/sitemap.xml
